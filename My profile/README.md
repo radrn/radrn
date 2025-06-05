@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="banner github" />
+</p>
 ---
 
 ## 🌷 À propos de moi
