@@ -41,6 +41,11 @@
   
 </p>
 
+--- 
+## 📊 Mon activité 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radrn)](https://git.io/streak-stats)
+
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpzOHNoYXZ3MmpwaTAxNGFqeWRzank4eTA4MW5ma2hwejdhMHZ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cOSbH8NoUFt9MXbuie/giphy.gif" width="800" height="400" alt="pastel coding gif"/>
