@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./My profile/bannergit.png" alt="banner github" />
 </p>
+
 ---
 
 ## 🌷 À propos de moi
@@ -42,7 +43,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpzOHNoYXZ3MmpwaTAxNGFqeWRzank4eTA4MW5ma2hwejdhMHZ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cOSbH8NoUFt9MXbuie/giphy.gif" width="800" alt="pastel coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpzOHNoYXZ3MmpwaTAxNGFqeWRzank4eTA4MW5ma2hwejdhMHZ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cOSbH8NoUFt9MXbuie/giphy.gif" width="800" height="400" alt="pastel coding gif"/>
 </p>
 
 
@@ -72,7 +73,7 @@
 ## 🧁 Merci d’être passé·e !
 
 Chaque ligne de code, aussi imparfaite soit-elle, fait partie de mon chemin.  
-**Merci de suivre mon aventure — 💌  
+Merci de suivre mon aventure — 💌  
 À très vite dans un projet ✨
 
 ---
